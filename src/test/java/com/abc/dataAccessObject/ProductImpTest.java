@@ -1,10 +1,11 @@
 package com.abc.dataAccessObject;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
 
 import com.abc.RetailModule;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class ProductImpTest {
 
